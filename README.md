@@ -29,9 +29,6 @@ start Knockout
 
 ## If you get any errors or issues, please create an support in https://discord.gg/gJE6ejFKXe
 
-[When you get knocked](https://youtu.be/rgFmN-q2Eas)
-[When knock someone](https://youtu.be/LgmAvoq3EI0)
-
 ## PS: i removed the progress bar you can implement any
 
 ### Feel free to use this script share it or modify it.
